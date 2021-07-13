@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		397F685326969756006BFDEB /* C. ABBB.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 397F685226969756006BFDEB /* C. ABBB.cpp */; };
+		39CA9B3C2698B04900B1858C /* C. A-B Palindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 39CA9B3B2698B04900B1858C /* C. A-B Palindrome.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		39D6AEA42694019D00EAFB5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		39001B752668F56300D89148 /* A. cAPS lOCK.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. cAPS lOCK.cpp"; sourceTree = "<group>"; };
+		39001B8226690BB700D89148 /* A. Raising Bacteria.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Raising Bacteria.cpp"; sourceTree = "<group>"; };
+		39001B8726692C2B00D89148 /* A. New Year Candles.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. New Year Candles.cpp"; sourceTree = "<group>"; };
+		39001B89266936BB00D89148 /* A. Infinite Sequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Infinite Sequence.cpp"; sourceTree = "<group>"; };
+		39001BB4266BA88400D89148 /* A. Multiplication Table.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Multiplication Table.cpp"; sourceTree = "<group>"; };
+		39001BB6266BABA500D89148 /* B. String Problem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. String Problem.cpp"; sourceTree = "<group>"; };
+		39001BB8266BFA4B00D89148 /* B. Vlad and Cafes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Vlad and Cafes.cpp"; sourceTree = "<group>"; };
+		39001BF0266CE3D600D89148 /* B. Strange List.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Strange List.cpp"; sourceTree = "<group>"; };
+		39001C442670B31500D89148 /* A. Football.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Football.cpp"; sourceTree = "<group>"; };
+		39001C462670E55300D89148 /* A. Olesya and Rodion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Olesya and Rodion.cpp"; sourceTree = "<group>"; };
+		39001C4826710A4B00D89148 /* M. The Pleasant Walk.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "M. The Pleasant Walk.cpp"; sourceTree = "<group>"; };
+		39001C4A2671118C00D89148 /* B. Ilya and Queries.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Ilya and Queries.cpp"; sourceTree = "<group>"; };
+		39001C4C2671272000D89148 /* B. Taxi.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Taxi.cpp"; sourceTree = "<group>"; };
+		39001C4E26714B7900D89148 /* B. Choosing Laptop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Choosing Laptop.cpp"; sourceTree = "<group>"; };
+		3902168D26490BC8008F96B1 /* B. Phoenix and Puzzle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Phoenix and Puzzle.cpp"; sourceTree = "<group>"; };
+		3902169A26492608008F96B1 /* A. Red and Blue Beans.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Red and Blue Beans.cpp"; sourceTree = "<group>"; };
+		390216A7264993D5008F96B1 /* B. The Cake Is a Lie.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. The Cake Is a Lie.cpp"; sourceTree = "<group>"; };
+		390216B42649A521008F96B1 /* A. Sum of 2050.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Sum of 2050.cpp"; sourceTree = "<group>"; };
+		390216C1264A864A008F96B1 /* A. Perfectly Imperfect Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Perfectly Imperfect Array.cpp"; sourceTree = "<group>"; };
+		390216CE264AE319008F96B1 /* A. Tit for Tat.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Tit for Tat.cpp"; sourceTree = "<group>"; };
+		390216DB264B2680008F96B1 /* A. Average Height.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Average Height.cpp"; sourceTree = "<group>"; };
+		390216E8264B30C1008F96B1 /* B. TMT Document.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. TMT Document.cpp"; sourceTree = "<group>"; };
+		3904D8402648431400033668 /* A. Phoenix and Gold.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Phoenix and Gold.cpp"; sourceTree = "<group>"; };
+		390A4E9B2653FD9C00F3AF95 /* A. Case of the Zeros and Ones.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Case of the Zeros and Ones.cpp"; sourceTree = "<group>"; };
+		390A4EA82654ABB000F3AF95 /* B. Multiply by 2, divide by 6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Multiply by 2, divide by 6.cpp"; sourceTree = "<group>"; };
+		390A4EB62654EAD800F3AF95 /* A. Playing with Dice.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Playing with Dice.cpp"; sourceTree = "<group>"; };
+		390A4EC32654F42100F3AF95 /* A. Suffix Three.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Suffix Three.cpp"; sourceTree = "<group>"; };
+		390A4ED026552F9500F3AF95 /* A. Love Triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Love Triangle.cpp"; sourceTree = "<group>"; };
+		390D779126509F2900BF2AFC /* A. Gravity Flip.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Gravity Flip.cpp"; sourceTree = "<group>"; };
+		390D779E2650A29300BF2AFC /* dubstep.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dubstep.cpp; sourceTree = "<group>"; };
+		390D77AC2650F4F700BF2AFC /* B. New Year's Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. New Year's Number.cpp"; sourceTree = "<group>"; };
+		3913F1CB25C5AE8200D67CD3 /* Domina filing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Domina filing.cpp"; sourceTree = "<group>"; };
+		391954C0265BBCAF00D96D92 /* B. Shooting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Shooting.cpp"; sourceTree = "<group>"; };
+		39215C87264ED12D0081B4B2 /* A. Translation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Translation.cpp"; sourceTree = "<group>"; };
+		39215C94264EE7CF0081B4B2 /* B. Drinks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Drinks.cpp"; sourceTree = "<group>"; };
+		39215CA1264F6C5A0081B4B2 /* A. Calculating Function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Calculating Function.cpp"; sourceTree = "<group>"; };
+		39215CAE264F6F770081B4B2 /* A. Password Check.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Password Check.cpp"; sourceTree = "<group>"; };
+		39215CBB264F72940081B4B2 /* G. Fake News (easy).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "G. Fake News (easy).cpp"; sourceTree = "<group>"; };
+		39215CC8264F8A570081B4B2 /* F. Data Center.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "F. Data Center.cpp"; sourceTree = "<group>"; };
+		39215CD5264F96F40081B4B2 /* A. Forgotten Episode.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Forgotten Episode.cpp"; sourceTree = "<group>"; };
+		39215CE2264FA4AF0081B4B2 /* A. Chores.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Chores.cpp"; sourceTree = "<group>"; };
+		39215CEF264FCF810081B4B2 /* A. Candies.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Candies.cpp"; sourceTree = "<group>"; };
+		39215CFC264FF22D0081B4B2 /* A. Even Odds.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Even Odds.cpp"; sourceTree = "<group>"; };
+		392736C6267E24AE000523BE /* A. Deadline.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Deadline.cpp"; sourceTree = "<group>"; };
+		392736CA267E49A4000523BE /* A. Vitya in the Countryside.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Vitya in the Countryside.cpp"; sourceTree = "<group>"; };
+		392736CD267E4CFE000523BE /* B. Fedya and Maths.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Fedya and Maths.cpp"; sourceTree = "<group>"; };
+		3930891D2644269D00CF2F4B /* distract2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = distract2.cpp; sourceTree = "<group>"; };
+		3930892A2644297A00CF2F4B /* A. Way Too Long Words.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Way Too Long Words.cpp"; sourceTree = "<group>"; };
+		393089372644310D00CF2F4B /* Bit++.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Bit++.cpp"; sourceTree = "<group>"; };
+		3930894F26443DAA00CF2F4B /* 2bit++.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2bit++.cpp"; sourceTree = "<group>"; };
+		393089512644409000CF2F4B /* A. Petya and Strings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Petya and Strings.cpp"; sourceTree = "<group>"; };
+		3930895E2644490E00CF2F4B /* petya's strings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "petya's strings.cpp"; sourceTree = "<group>"; };
+		3930896B264452DD00CF2F4B /* A. Beautiful Matrix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Beautiful Matrix.cpp"; sourceTree = "<group>"; };
+		3930897826445CCB00CF2F4B /* beauty.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = beauty.cpp; sourceTree = "<group>"; };
+		393089852644712D00CF2F4B /* super beauty.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "super beauty.cpp"; sourceTree = "<group>"; };
+		39448A5C267678C4005D8F54 /* A. Reorder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Reorder.cpp"; sourceTree = "<group>"; };
+		39448A6B267ACF56005D8F54 /* B. Box Fitting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Box Fitting.cpp"; sourceTree = "<group>"; };
+		39448A7E267C5483005D8F54 /* A. Strange Partition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Strange Partition.cpp"; sourceTree = "<group>"; };
+		39674CB025C31BDC000D6A1D /* Theatre Square.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Theatre Square.cpp"; sourceTree = "<group>"; };
+		397AA69D2646F20C008C83F3 /* A. Nastia and Nearly Good Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Nastia and Nearly Good Numbers.cpp"; sourceTree = "<group>"; };
+		397AA6AA26470876008C83F3 /* A. Word Capitalization.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Word Capitalization.cpp"; sourceTree = "<group>"; };
+		397AA6B726470C08008C83F3 /* A. Stones on the Table.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Stones on the Table.cpp"; sourceTree = "<group>"; };
+		397AA6C526472C4B008C83F3 /* A. Boy or Girl.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Boy or Girl.cpp"; sourceTree = "<group>"; };
+		397AA6D226472FA6008C83F3 /* A. Bear and Big Brother.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Bear and Big Brother.cpp"; sourceTree = "<group>"; };
+		397AA6DF264737E0008C83F3 /* A. Wrong Subtraction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Wrong Subtraction.cpp"; sourceTree = "<group>"; };
+		397AA6EC26473DDD008C83F3 /* A. Elephant.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Elephant.cpp"; sourceTree = "<group>"; };
+		397AA6F926474D55008C83F3 /* A. Beautiful Year.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Beautiful Year.cpp"; sourceTree = "<group>"; };
+		397EAC7925C4FCD3007F48C3 /* next round.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "next round.cpp"; sourceTree = "<group>"; };
+		397EAC8F25C53D14007F48C3 /* sample.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sample.cpp; sourceTree = "<group>"; };
+		397EACB025C54137007F48C3 /* doubt.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = doubt.txt; sourceTree = "<group>"; };
+		397EACB125C54156007F48C3 /* doubt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = doubt.cpp; sourceTree = "<group>"; };
+		397EACB225C5419C007F48C3 /* doubt2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = doubt2.cpp; sourceTree = "<group>"; };
+		397F685226969756006BFDEB /* C. ABBB.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. ABBB.cpp"; sourceTree = "<group>"; };
+		398481622641349400C3F4FC /* A. Young Physicist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Young Physicist.cpp"; sourceTree = "<group>"; };
+		3984816F2641449200C3F4FC /* A. Chat room.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Chat room.cpp"; sourceTree = "<group>"; };
+		3984817C26417E9700C3F4FC /* A. Lucky Division.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Lucky Division.cpp"; sourceTree = "<group>"; };
+		398481892641883100C3F4FC /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
+		398481A42641BEAD00C3F4FC /* test2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test2.cpp; sourceTree = "<group>"; };
+		398481B12641D2B500C3F4FC /* test3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test3.cpp; sourceTree = "<group>"; };
+		398481BE2641D42A00C3F4FC /* test4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test4.cpp; sourceTree = "<group>"; };
+		39980BB125C403FA005017B7 /* team.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = team.cpp; sourceTree = "<group>"; };
+		39A3FDDC265E2A41008266C7 /* B. Queue at the School.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Queue at the School.cpp"; sourceTree = "<group>"; };
+		39A3FDE9265F52C9008266C7 /* B. Borze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Borze.cpp"; sourceTree = "<group>"; };
+		39B6DB512645342A00368EFC /* A. Helpful Maths.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Helpful Maths.cpp"; sourceTree = "<group>"; };
+		39B7A28826520D1900E31B8A /* A. Hit the Lottery.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Hit the Lottery.cpp"; sourceTree = "<group>"; };
+		39B7A29526520FEB00E31B8A /* A. Restoring Three Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Restoring Three Numbers.cpp"; sourceTree = "<group>"; };
+		39B7A2A22652132900E31B8A /* A. Police Recruits.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Police Recruits.cpp"; sourceTree = "<group>"; };
+		39B7A2AF2652470D00E31B8A /* A. Insomnia cure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Insomnia cure.cpp"; sourceTree = "<group>"; };
+		39B7CCCB264C4BD500F75531 /* A. Review Site.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Review Site.cpp"; sourceTree = "<group>"; };
+		39B7CCD8264C7BAA00F75531 /* A. Spy Detected!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Spy Detected!.cpp"; sourceTree = "<group>"; };
+		39B7CCE5264C8C4900F75531 /* A. Déjà Vu.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Déjà Vu.cpp"; sourceTree = "<group>"; };
+		39B7CCF2264CA37300F75531 /* A. Odd Divisor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Odd Divisor.cpp"; sourceTree = "<group>"; };
+		39B7CCFF264DA78300F75531 /* A. Fox And Snake.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Fox And Snake.cpp"; sourceTree = "<group>"; };
+		39B7CD0C264DB51C00F75531 /* A. Hulk.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Hulk.cpp"; sourceTree = "<group>"; };
+		39B7CD19264DC6FE00F75531 /* A. Summer Camp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Summer Camp.cpp"; sourceTree = "<group>"; };
+		39B7CD26264DCBF800F75531 /* A. Again Twenty Five!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Again Twenty Five!.cpp"; sourceTree = "<group>"; };
+		39B7CD33264DCE1000F75531 /* A. Minutes Before the New Year.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Minutes Before the New Year.cpp"; sourceTree = "<group>"; };
+		39B7CD40264DCFB600F75531 /* A. Word.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Word.cpp"; sourceTree = "<group>"; };
+		39B7CD4D264DD43800F75531 /* A. Magnets.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Magnets.cpp"; sourceTree = "<group>"; };
+		39B7CD5A264E114C00F75531 /* B. GCD Length.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. GCD Length.cpp"; sourceTree = "<group>"; };
+		39C68B752642DD9600EDF440 /* Lucky division 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lucky division 2.cpp"; sourceTree = "<group>"; };
+		39C68B822642E71600EDF440 /* B. Ordinary Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "B. Ordinary Numbers.cpp"; sourceTree = "<group>"; };
+		39C68B8F2642FFBB00EDF440 /* ordinary number 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "ordinary number 2.cpp"; sourceTree = "<group>"; };
+		39C68B9C26430D9600EDF440 /* ordinary number3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "ordinary number3.cpp"; sourceTree = "<group>"; };
+		39C68BA92643180500EDF440 /* A. Do Not Be Distracted!.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Do Not Be Distracted!.cpp"; sourceTree = "<group>"; };
+		39C68BB62643400B00EDF440 /* distract.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = distract.cpp; sourceTree = "<group>"; };
+		39CA9B3B2698B04900B1858C /* C. A-B Palindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "C. A-B Palindrome.cpp"; sourceTree = "<group>"; };
+		39D6AEA62694019D00EAFB5E /* 1000 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 1000; sourceTree = BUILT_PRODUCTS_DIR; };
+		39D6AEAD269401AE00EAFB5E /* A. Minimum Integer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Minimum Integer.cpp"; sourceTree = "<group>"; };
+		39DC9266263F1DDA002932EC /* A. String Task.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. String Task.cpp"; sourceTree = "<group>"; };
+		39DC9273263F32F4002932EC /* A. Football.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Football.cpp"; sourceTree = "<group>"; };
+		39E5A0632640304800A3A8B7 /* A. Soldier and Bananas.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "A. Soldier and Bananas.cpp"; sourceTree = "<group>"; };
+		39E91752265F553600FC3DF7 /* dbbdbd.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dbbdbd.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		39D6AEA32694019D00EAFB5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		39001B742668F54900D89148 /* 1000 */ = {
+			isa = PBXGroup;
+			children = (
+				39001B752668F56300D89148 /* A. cAPS lOCK.cpp */,
+				39001B8226690BB700D89148 /* A. Raising Bacteria.cpp */,
+				39001B8726692C2B00D89148 /* A. New Year Candles.cpp */,
+				39001B89266936BB00D89148 /* A. Infinite Sequence.cpp */,
+				39001BB4266BA88400D89148 /* A. Multiplication Table.cpp */,
+				39001BB6266BABA500D89148 /* B. String Problem.cpp */,
+				39001BB8266BFA4B00D89148 /* B. Vlad and Cafes.cpp */,
+				39001BF0266CE3D600D89148 /* B. Strange List.cpp */,
+				39001C442670B31500D89148 /* A. Football.cpp */,
+				39001C462670E55300D89148 /* A. Olesya and Rodion.cpp */,
+				39001C4826710A4B00D89148 /* M. The Pleasant Walk.cpp */,
+				39001C4A2671118C00D89148 /* B. Ilya and Queries.cpp */,
+				39001C4C2671272000D89148 /* B. Taxi.cpp */,
+				39001C4E26714B7900D89148 /* B. Choosing Laptop.cpp */,
+				392736C6267E24AE000523BE /* A. Deadline.cpp */,
+				392736CA267E49A4000523BE /* A. Vitya in the Countryside.cpp */,
+				392736CD267E4CFE000523BE /* B. Fedya and Maths.cpp */,
+				39D6AEAD269401AE00EAFB5E /* A. Minimum Integer.cpp */,
+				397F685226969756006BFDEB /* C. ABBB.cpp */,
+				39CA9B3B2698B04900B1858C /* C. A-B Palindrome.cpp */,
+			);
+			path = 1000;
+			sourceTree = "<group>";
+		};
+		391954BF265BBC9000D96D92 /* 900 */ = {
+			isa = PBXGroup;
+			children = (
+				391954C0265BBCAF00D96D92 /* B. Shooting.cpp */,
+			);
+			path = 900;
+			sourceTree = "<group>";
+		};
+		39674C9A25C31529000D6A1D = {
+			isa = PBXGroup;
+			children = (
+				39001B742668F54900D89148 /* 1000 */,
+				391954BF265BBC9000D96D92 /* 900 */,
+				39674CA525C31529000D6A1D /* CODEFORCES PROBLEM SET */,
+				39D6AEA62694019D00EAFB5E /* 1000 */,
+			);
+			sourceTree = "<group>";
+		};
+		39674CA525C31529000D6A1D /* CODEFORCES PROBLEM SET */ = {
+			isa = PBXGroup;
+			children = (
+				39674CB025C31BDC000D6A1D /* Theatre Square.cpp */,
+				39980BB125C403FA005017B7 /* team.cpp */,
+				397EAC7925C4FCD3007F48C3 /* next round.cpp */,
+				397EAC8F25C53D14007F48C3 /* sample.cpp */,
+				397EACB025C54137007F48C3 /* doubt.txt */,
+				397EACB125C54156007F48C3 /* doubt.cpp */,
+				397EACB225C5419C007F48C3 /* doubt2.cpp */,
+				3913F1CB25C5AE8200D67CD3 /* Domina filing.cpp */,
+				39DC9266263F1DDA002932EC /* A. String Task.cpp */,
+				39DC9273263F32F4002932EC /* A. Football.cpp */,
+				39E5A0632640304800A3A8B7 /* A. Soldier and Bananas.cpp */,
+				398481622641349400C3F4FC /* A. Young Physicist.cpp */,
+				3984816F2641449200C3F4FC /* A. Chat room.cpp */,
+				3984817C26417E9700C3F4FC /* A. Lucky Division.cpp */,
+				398481892641883100C3F4FC /* test.cpp */,
+				398481A42641BEAD00C3F4FC /* test2.cpp */,
+				398481B12641D2B500C3F4FC /* test3.cpp */,
+				398481BE2641D42A00C3F4FC /* test4.cpp */,
+				39C68B752642DD9600EDF440 /* Lucky division 2.cpp */,
+				39C68B822642E71600EDF440 /* B. Ordinary Numbers.cpp */,
+				39C68B8F2642FFBB00EDF440 /* ordinary number 2.cpp */,
+				39C68B9C26430D9600EDF440 /* ordinary number3.cpp */,
+				39C68BA92643180500EDF440 /* A. Do Not Be Distracted!.cpp */,
+				39C68BB62643400B00EDF440 /* distract.cpp */,
+				3930891D2644269D00CF2F4B /* distract2.cpp */,
+				3930892A2644297A00CF2F4B /* A. Way Too Long Words.cpp */,
+				393089372644310D00CF2F4B /* Bit++.cpp */,
+				3930894F26443DAA00CF2F4B /* 2bit++.cpp */,
+				393089512644409000CF2F4B /* A. Petya and Strings.cpp */,
+				3930895E2644490E00CF2F4B /* petya's strings.cpp */,
+				3930896B264452DD00CF2F4B /* A. Beautiful Matrix.cpp */,
+				3930897826445CCB00CF2F4B /* beauty.cpp */,
+				393089852644712D00CF2F4B /* super beauty.cpp */,
+				39B6DB512645342A00368EFC /* A. Helpful Maths.cpp */,
+				397AA69D2646F20C008C83F3 /* A. Nastia and Nearly Good Numbers.cpp */,
+				397AA6AA26470876008C83F3 /* A. Word Capitalization.cpp */,
+				397AA6B726470C08008C83F3 /* A. Stones on the Table.cpp */,
+				397AA6C526472C4B008C83F3 /* A. Boy or Girl.cpp */,
+				397AA6D226472FA6008C83F3 /* A. Bear and Big Brother.cpp */,
+				397AA6DF264737E0008C83F3 /* A. Wrong Subtraction.cpp */,
+				397AA6EC26473DDD008C83F3 /* A. Elephant.cpp */,
+				397AA6F926474D55008C83F3 /* A. Beautiful Year.cpp */,
+				3904D8402648431400033668 /* A. Phoenix and Gold.cpp */,
+				3902168D26490BC8008F96B1 /* B. Phoenix and Puzzle.cpp */,
+				3902169A26492608008F96B1 /* A. Red and Blue Beans.cpp */,
+				390216A7264993D5008F96B1 /* B. The Cake Is a Lie.cpp */,
+				390216B42649A521008F96B1 /* A. Sum of 2050.cpp */,
+				390216C1264A864A008F96B1 /* A. Perfectly Imperfect Array.cpp */,
+				390216CE264AE319008F96B1 /* A. Tit for Tat.cpp */,
+				390216DB264B2680008F96B1 /* A. Average Height.cpp */,
+				390216E8264B30C1008F96B1 /* B. TMT Document.cpp */,
+				39B7CCCB264C4BD500F75531 /* A. Review Site.cpp */,
+				39B7CCD8264C7BAA00F75531 /* A. Spy Detected!.cpp */,
+				39B7CCE5264C8C4900F75531 /* A. Déjà Vu.cpp */,
+				39B7CCF2264CA37300F75531 /* A. Odd Divisor.cpp */,
+				39B7CCFF264DA78300F75531 /* A. Fox And Snake.cpp */,
+				39B7CD0C264DB51C00F75531 /* A. Hulk.cpp */,
+				39B7CD19264DC6FE00F75531 /* A. Summer Camp.cpp */,
+				39B7CD26264DCBF800F75531 /* A. Again Twenty Five!.cpp */,
+				39B7CD33264DCE1000F75531 /* A. Minutes Before the New Year.cpp */,
+				39B7CD40264DCFB600F75531 /* A. Word.cpp */,
+				39B7CD4D264DD43800F75531 /* A. Magnets.cpp */,
+				39B7CD5A264E114C00F75531 /* B. GCD Length.cpp */,
+				39215C87264ED12D0081B4B2 /* A. Translation.cpp */,
+				39215C94264EE7CF0081B4B2 /* B. Drinks.cpp */,
+				39215CA1264F6C5A0081B4B2 /* A. Calculating Function.cpp */,
+				39215CAE264F6F770081B4B2 /* A. Password Check.cpp */,
+				39215CBB264F72940081B4B2 /* G. Fake News (easy).cpp */,
+				39215CC8264F8A570081B4B2 /* F. Data Center.cpp */,
+				39215CD5264F96F40081B4B2 /* A. Forgotten Episode.cpp */,
+				39215CE2264FA4AF0081B4B2 /* A. Chores.cpp */,
+				39215CEF264FCF810081B4B2 /* A. Candies.cpp */,
+				39215CFC264FF22D0081B4B2 /* A. Even Odds.cpp */,
+				390D779126509F2900BF2AFC /* A. Gravity Flip.cpp */,
+				390D779E2650A29300BF2AFC /* dubstep.cpp */,
+				390D77AC2650F4F700BF2AFC /* B. New Year's Number.cpp */,
+				39B7A28826520D1900E31B8A /* A. Hit the Lottery.cpp */,
+				39B7A29526520FEB00E31B8A /* A. Restoring Three Numbers.cpp */,
+				39B7A2A22652132900E31B8A /* A. Police Recruits.cpp */,
+				39B7A2AF2652470D00E31B8A /* A. Insomnia cure.cpp */,
+				390A4E9B2653FD9C00F3AF95 /* A. Case of the Zeros and Ones.cpp */,
+				390A4EA82654ABB000F3AF95 /* B. Multiply by 2, divide by 6.cpp */,
+				390A4EB62654EAD800F3AF95 /* A. Playing with Dice.cpp */,
+				390A4EC32654F42100F3AF95 /* A. Suffix Three.cpp */,
+				390A4ED026552F9500F3AF95 /* A. Love Triangle.cpp */,
+				39A3FDDC265E2A41008266C7 /* B. Queue at the School.cpp */,
+				39A3FDE9265F52C9008266C7 /* B. Borze.cpp */,
+				39E91752265F553600FC3DF7 /* dbbdbd.cpp */,
+				39448A5C267678C4005D8F54 /* A. Reorder.cpp */,
+				39448A6B267ACF56005D8F54 /* B. Box Fitting.cpp */,
+				39448A7E267C5483005D8F54 /* A. Strange Partition.cpp */,
+			);
+			path = "CODEFORCES PROBLEM SET";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		39D6AEA52694019D00EAFB5E /* 1000 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 39D6AEAA2694019D00EAFB5E /* Build configuration list for PBXNativeTarget "1000" */;
+			buildPhases = (
+				39D6AEA22694019D00EAFB5E /* Sources */,
+				39D6AEA32694019D00EAFB5E /* Frameworks */,
+				39D6AEA42694019D00EAFB5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 1000;
+			productName = 1000;
+			productReference = 39D6AEA62694019D00EAFB5E /* 1000 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		39674C9B25C31529000D6A1D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					39D6AEA52694019D00EAFB5E = {
+						CreatedOnToolsVersion = 12.5.1;
+					};
+				};
+			};
+			buildConfigurationList = 39674C9E25C31529000D6A1D /* Build configuration list for PBXProject "CODEFORCES PROBLEM SET" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 39674C9A25C31529000D6A1D;
+			productRefGroup = 39674C9A25C31529000D6A1D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				39D6AEA52694019D00EAFB5E /* 1000 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		39D6AEA22694019D00EAFB5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39CA9B3C2698B04900B1858C /* C. A-B Palindrome.cpp in Sources */,
+				397F685326969756006BFDEB /* C. ABBB.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		39674CA825C31529000D6A1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		39674CA925C31529000D6A1D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		39D6AEAB2694019D00EAFB5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LP78G7R4JZ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		39D6AEAC2694019D00EAFB5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LP78G7R4JZ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		39674C9E25C31529000D6A1D /* Build configuration list for PBXProject "CODEFORCES PROBLEM SET" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39674CA825C31529000D6A1D /* Debug */,
+				39674CA925C31529000D6A1D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		39D6AEAA2694019D00EAFB5E /* Build configuration list for PBXNativeTarget "1000" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39D6AEAB2694019D00EAFB5E /* Debug */,
+				39D6AEAC2694019D00EAFB5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 39674C9B25C31529000D6A1D /* Project object */;
+}
